@@ -15,3 +15,4 @@ In the first semester, I study the following subjects:
   - 🖥️ Fundamentals of digital systems
   - 🔌 Safety in electrical engineering
 
+ <i class="devicon-c-plain"></i>
