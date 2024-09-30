@@ -29,3 +29,7 @@ In the first semester, I study the following subjects:
 [![My Skills](https://skillicons.dev/icons?i=css,html)](https://skillicons.dev)
 ### IDE and editors
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,obsidian,powershell,vim,visualstudio,vscode)](https://skillicons.dev)
+
+## My projects ✒️
+- [specialized web app for Swiss doubles in badminton.](https://svajciar.spsit.sk/)
+
