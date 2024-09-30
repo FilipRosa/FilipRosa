@@ -4,12 +4,14 @@ From 1.9.2024 I started a new stage of my life - study at university!
 
 My field of study is computer science.
 
-In first semester I'm learning:
+In the first semester, I study the following subjects:
   - 🏸 Physical education; namely badminton
   - 🇬🇧  B2 English
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
+  - ⚖️ Law in ICT
+  - 🧮 Linear algebra
+  - ⌨️ Functional programming in Haskell
+  - ⌨️ Introduction to programming in C
+  - 💭 Introduction to logical thinking
+  - 🖥️ Fundamentals of digital systems
+  - 🔌 Safety in electrical engineering
+
