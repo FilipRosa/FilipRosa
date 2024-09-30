@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-From 1.9.2024 I started a new stage of my life - study at university!
+From September 1, 2024, I started a new stage of my life - studying at a university! 🎓
 
-My field of study is computer science.
+🖥️❤️ My field of study is computer science. 🖥️❤️
 
 In the first semester, I study the following subjects:
   - 🏸 Physical education; namely badminton
