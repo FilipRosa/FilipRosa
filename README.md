@@ -16,4 +16,5 @@ In the first semester, I study the following subjects:
   - 🔌 Safety in electrical engineering
 
 ## My programming skills 💪
+# Programming languages
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,autocad,azure,bootstrap,c,cs,cpp,css,django,figma,git,github,haskell,html,java,js,ai,kali,linux,mysql,nodejs,npm,obsidian,ps,php,postman,powershell,py,react,redux,ubuntu,unity,vim,visualstudio,vscode,windows,wordpress)](https://skillicons.dev)
