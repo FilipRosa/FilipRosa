@@ -15,4 +15,5 @@ In the first semester, I study the following subjects:
   - 🖥️ Fundamentals of digital systems
   - 🔌 Safety in electrical engineering
 
+## My programming skills 💪
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
