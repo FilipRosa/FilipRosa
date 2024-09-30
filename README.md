@@ -14,6 +14,3 @@ In the first semester, I study the following subjects:
   - 💭 Introduction to logical thinking
   - 🖥️ Fundamentals of digital systems
   - 🔌 Safety in electrical engineering
-
-
-https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg
