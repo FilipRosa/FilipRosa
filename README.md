@@ -6,7 +6,7 @@ My field of study is computer science.
 
 In the first semester, I study the following subjects:
   - 🏸 Physical education; namely badminton
-  - 🇬🇧  B2 English
+  - 🌐 B2 English
   - ⚖️ Law in ICT
   - 🧮 Linear algebra
   - ⌨️ Functional programming in Haskell
