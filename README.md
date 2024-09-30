@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone who found my profile! 👋😅
 
 From September 1, 2024, I started a new stage of my life - studying at a university! 🎓
 
