@@ -19,7 +19,16 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
   - 🔌 Safety in electrical engineering
 </details>
 
-
+In the second semester, I study the following subjects:
+- 🖥️ Algorithms
+- 💽 Architectures of computers and parallel systems
+- 🌐 B2 English
+- 🧮 Mathematical analysis
+- ⌨️ Object-oriented programming in C++
+- 📰 Typesetting of technical documents - LaTeX
+- 👨‍💼 Soft Skills
+- 🏸 Physical education
+- 📊 Introduction to software engineering
 
 ## My IT skills 💪
 ### Programming languages and technologies
