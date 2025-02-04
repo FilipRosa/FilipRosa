@@ -8,14 +8,14 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
 
 <details>
   <summary>In the first semester, I study the following subjects:</summary>
-  - 🏸 Physical education; namely badminton
-  - 🌐 B2 English
-  - ⚖️ Law in ICT
-  - 🧮 Linear algebra
-  - ⌨️ Functional programming in Haskell
-  - ⌨️ Introduction to programming in C
-  - 💭 Introduction to logical thinking
-  - 🖥️ Fundamentals of digital systems
+  - 🏸 Physical education; namely badminton <br>
+  - 🌐 B2 English <br>
+  - ⚖️ Law in ICT <br>
+  - 🧮 Linear algebra <br>
+  - ⌨️ Functional programming in Haskell <br>
+  - ⌨️ Introduction to programming in C <br>
+  - 💭 Introduction to logical thinking <br>
+  - 🖥️ Fundamentals of digital systems <br>
   - 🔌 Safety in electrical engineering
 </details>
 
