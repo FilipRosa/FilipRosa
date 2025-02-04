@@ -6,7 +6,8 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
 
 👮❤️ I love and learn cyber security. 👮❤️
 
-In the first semester, I study the following subjects:
+<details>
+  <summary>In the first semester, I study the following subjects:</summary>
   - 🏸 Physical education; namely badminton
   - 🌐 B2 English
   - ⚖️ Law in ICT
@@ -16,6 +17,9 @@ In the first semester, I study the following subjects:
   - 💭 Introduction to logical thinking
   - 🖥️ Fundamentals of digital systems
   - 🔌 Safety in electrical engineering
+</details>
+
+
 
 ## My IT skills 💪
 ### Programming languages and technologies
