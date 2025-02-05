@@ -43,6 +43,16 @@ In the second semester, I study the following subjects:
 ### IDE and editors
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,obsidian,powershell,vim,visualstudio,vscode)](https://skillicons.dev)
 
+### Languages statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filiprosa&langs_count=8&layout=donut&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My projects ✒️
 - 🏸 [specialized web app for Swiss doubles in badminton](https://svajciar.spsit.sk/)
+
+## Statistics 📊
+### Github
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiprosa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=00000000)
+
+### Worktime
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@filiprosa)](https://github.com/anuraghazra/github-readme-stats)
 
