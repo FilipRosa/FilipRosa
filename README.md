@@ -35,10 +35,8 @@ In the second semester, I study the following subjects:
 #### 1. Beginner
 [![My Skills](https://skillicons.dev/icons?i=autocad,azure,c,cs,cpp,figma,haskell,java,ai,ps,unity,wordpress)](https://skillicons.dev)
 #### 2. Intermediate
-[![My Skills](https://skillicons.dev/icons?i=arduino,django,git,github,kali,linux,nodejs,npm,php,postman,powershell,py,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,django,git,github,kali,linux,nodejs,npm,php,postman,powershell,py,bootstrap,js,mysql,react,redux,windows)](https://skillicons.dev)
 #### 3. Proficient
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,js,mysql,react,redux,windows)](https://skillicons.dev)
-#### 4. Advanced
 [![My Skills](https://skillicons.dev/icons?i=css,html)](https://skillicons.dev)
 ### IDE and editors
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,obsidian,powershell,vim,visualstudio,vscode)](https://skillicons.dev)
@@ -50,9 +48,11 @@ In the second semester, I study the following subjects:
 - 🏸 [specialized web app for Swiss doubles in badminton](https://svajciar.spsit.sk/)
 
 ## Statistics 📊
-### Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiprosa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=00000000)
-
-### Worktime
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@filiprosa)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <span width="45%">
+    <img src="https://github-readme-stats.vercel.app/api?username=filiprosa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=00000000">
+  </span>
+  <span width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@filiprosa&bg_color=00000000">
+  </span>
+</p>
