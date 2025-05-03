@@ -59,32 +59,31 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
   <h4>Programming languages and technologies<h4>
 
   <h5>1. Beginner</h5>
-  [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
-
-
-  
+  [![My Skills](https://skillicons.dev/icons?i=autocad,azure,c,cs,cpp,figma,haskell,java,ai,ps,unity,wordpress)](https://skillicons.dev)
 
   <h5>2. Intermediate</h5>
-
+  [![My Skills](https://skillicons.dev/icons?i=arduino,django,git,github,kali,linux,nodejs,npm,php,postman,powershell,py,bootstrap,js,mysql,react,redux,windows)](https://skillicons.dev)
 
   <h5>3. Proficient</h5>
+  [![My Skills](https://skillicons.dev/icons?i=css,html)](https://skillicons.dev)
 
 
   <h5>IDE and editors</h5>
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,obsidian,powershell,vim,visualstudio,vscode)](https://skillicons.dev)
+
 </div>
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=autocad,azure,c,cs,cpp,figma,haskell,java,ai,ps,unity,wordpress)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,django,git,github,kali,linux,nodejs,npm,php,postman,powershell,py,bootstrap,js,mysql,react,redux,windows)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=css,html)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,obsidian,powershell,vim,visualstudio,vscode)](https://skillicons.dev)
+
+
+
 
 ### Languages statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filiprosa&layout=donut&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
