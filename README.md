@@ -1,4 +1,18 @@
-## Hello everyone who found my profile! 👋😅
+![Header](./github-header.png)
+
+<div align="center">
+From September 1, 2024, I started a new stage of my life - studying computer science at a university! I love and strive to learn cybersecurity and also programming.
+</div>
+
+<br>
+<div align="center">
+<h2>My projects ✒️</h2>
+</div>
+
+
+
+
+
 
 From September 1, 2024, I started a new stage of my life - studying at a university! 🎓
 
