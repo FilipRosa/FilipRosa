@@ -59,7 +59,7 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
   <h4>Programming languages and technologies<h4>
 
   <h5>1. Beginner</h5>
-  [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+  [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com)
 
   
 
