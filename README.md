@@ -4,7 +4,10 @@
   From September 1, 2024, I started a new stage of my life - studying computer science at a university! I love and strive to learn cybersecurity and also programming.
 </div>
 
-![Metrics](./metrics.plugin.isocalendar.svg)
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.svg" alt="Metrics 1" width="48%">
+  <img src="./metrics.plugin.anilist.svg" alt="Metrics 2" width="48%">
+</p>
 
 <br>
 <div align="center">
@@ -87,7 +90,6 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
 
-  
 
 ##### 2. Intermediate
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
@@ -96,6 +98,7 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
 ##### 3. Proficient
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+
 
 ##### IDE and editors
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
@@ -108,5 +111,9 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
 <p align="center">
   <span width="45%">
     <img src="./metrics.plugin.habits.facts.svg">
+  </span>
+  <br><br>
+  <span width="45%">
+    <img src="./metrics.plugin.wakatime.svg">
   </span>
 </p>
