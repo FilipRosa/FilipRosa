@@ -18,6 +18,7 @@ jobs:
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_traffic: yes
+          plugin_languages: yes
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
@@ -33,7 +34,7 @@ jobs:
             plugin_habits: yes
             plugin_habits_facts: yes
             plugin_habits_charts: yes
-            plugin_language_activity: yes
+            plugin_languages: yes
             plugin_languages_sections: recently-used
             plugin_languages_recent_load: 400
             plugin_languages_recent_days: 14
@@ -48,5 +49,6 @@ jobs:
             token: NOT_NEEDED
             base: ""
             plugin_wakatime: yes
-            plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+            plugin_wakatime_sections: time, projects, languages, languages-graphs, editors, os, os-graphs
             plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+            plugin_wakatime_days: 365
