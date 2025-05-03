@@ -105,19 +105,8 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
 
 ---
 
-![Metrics](./metrics.plugin.habits.facts.svg)
-
-
-
-
-### Languages statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filiprosa&layout=donut&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <span width="45%">
-    <img src="https://github-readme-stats.vercel.app/api?username=filiprosa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=00000000">
-  </span>
-  <span width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@filiprosa&bg_color=00000000">
+    <img src="./metrics.plugin.habits.facts.svg">
   </span>
 </p>
