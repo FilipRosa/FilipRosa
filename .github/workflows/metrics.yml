@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  github-metrics:
+  isocalendar:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -19,3 +19,15 @@ jobs:
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_followup: yes
+  facts:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.habits.facts.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_habits: yes
+            plugin_habits_facts: yes
+            plugin_habits_charts: yes
+            config_timezone: Europe/Bratislava
