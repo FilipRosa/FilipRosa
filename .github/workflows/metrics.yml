@@ -3,6 +3,9 @@ on:
   schedule: [{cron: "0 * * * *"}] # beží každú hodinu
   workflow_dispatch: # umožňuje manuálne spustenie
 
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
