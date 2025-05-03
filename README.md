@@ -1,7 +1,7 @@
-![Header](./github-header.png)
+![Header](./images/github-header.png)
 
 <div align="center">
-From September 1, 2024, I started a new stage of my life - studying computer science at a university! I love and strive to learn cybersecurity and also programming.
+  From September 1, 2024, I started a new stage of my life - studying computer science at a university! I love and strive to learn cybersecurity and also programming.
 </div>
 
 <br>
@@ -9,9 +9,18 @@ From September 1, 2024, I started a new stage of my life - studying computer sci
 <h2>My projects ✒️</h2>
 </div>
 
+<div align="center" style="max-width: 600px; margin: auto;">
+  <h4>🏸Švajčiar - specialized web app for Swiss doubles in badminton</h4>
 
+  <img src="./images/svajciar_prew.png" alt="Náhľad projektu" style="width:100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 
+  Single-page web application for badminton tournaments management in compliance with REACT API standards created by React and Django frameworks with MySQL database. User can manage tournament - from entering and drawing players to evaluating and printing results. It is also possible to view all played tournaments. The frontend is deployed on web hosting and the backend on PythonAnywhere.
 
+  ---
+
+  🔧 **Technologies:** React, Django, MySQL
+  📦 **Preview:** [web page](https://svajciar.spsit.sk)
+</div>
 
 
 From September 1, 2024, I started a new stage of my life - studying at a university! 🎓
