@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Metrics 1" width="48%">
-  <img src="./metrics.plugin.anilist.svg" alt="Metrics 2" width="48%">
+  <img src="./metrics.plugin.isocalendar.svg" alt="Metrics 1" width="48%" style="vertical-align: top;">
+  <img src="./metrics.plugin.anilist.svg" alt="Metrics 2" width="48%" style="vertical-align: top;">
 </p>
 
 <br>
