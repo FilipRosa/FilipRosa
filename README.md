@@ -109,11 +109,11 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
 ---
 
 <p align="center">
-  <span width="45%">
+  <span width="50%">
     <img src="./metrics.plugin.habits.facts.svg">
   </span>
   <br><br>
-  <span width="45%">
+  <span width="50%">
     <img src="./metrics.plugin.wakatime.svg">
   </span>
 </p>
