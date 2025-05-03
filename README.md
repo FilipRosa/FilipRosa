@@ -4,6 +4,8 @@
   From September 1, 2024, I started a new stage of my life - studying computer science at a university! I love and strive to learn cybersecurity and also programming.
 </div>
 
+![Metrics](./metrics.plugin.isocalendar.svg)
+
 <br>
 <div align="center">
 <h2>My projects ✒️</h2>
@@ -102,6 +104,11 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ---
+
+![Metrics](./metrics.plugin.habits.facts.svg)
+
+
+
 
 ### Languages statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filiprosa&layout=donut&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
