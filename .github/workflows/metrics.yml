@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 * * * *"}] # beží každú hodinu
+  schedule: [{cron: "0 0 * * *"}] # beží každú hodinu
   workflow_dispatch: # umožňuje manuálne spustenie
 
 permissions:
