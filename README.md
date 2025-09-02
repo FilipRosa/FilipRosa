@@ -67,6 +67,19 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
   - 📊 Introduction to Software Engineering
 </details>
 
+<details>
+  <summary>In the third semester:</summary>
+  
+  - 🖥️ Algorithms II <br>
+  - 📊 Database Systems I <br>
+  - 🧮 Discrete Mathematics <br>
+  - 🌐 English Language for FEI - intermediate <br>
+  - 🧮 Mathematical Analysis 2 <br>
+  - 🖥️ Computer Networks <br>
+  - ⌨️ Java Programming I <br>
+  - 📊 Introduction to Social Network Analysis
+</details>
+
 #### Computer science skills
 
 ##### 1. Beginner
