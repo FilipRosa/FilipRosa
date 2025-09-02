@@ -19,7 +19,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_traffic: yes
           plugin_languages: yes
-          plugin_languages_skipped: CRG-project unity-learning
+          plugin_languages_skipped: CRG-project unity-learning autobusy_gobat.sk tekovany
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
