@@ -11,10 +11,12 @@
 
 <br>
 <div align="center">
-<h2>My projects ✒️</h2>
+<h2>My projects</h2>
 </div>
 
 <div align="center" style="max-width: 600px; margin: auto;">
+  <details>
+    <summary>Švajčiar</summary>
   <h4>🏸Švajčiar - specialized web app for Swiss doubles in badminton</h4>
 
   [//]: <img src="./images/svajciar_prew.png" alt="Náhľad projektu" style="width:100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
@@ -25,39 +27,44 @@
 
   🔧 **Technologies:** React, Django, MySQL
   📦 **Preview:** [web page](https://svajciar.spsit.sk)
+  </details>
 </div>
+
 
 <br>
 <div align="center">
-<h2>About me 👨‍💼</h2>
+<h2>About me</h2>
 </div>
 
 From September 1, 2024, I started a new stage of my life - studying at a university! 🎓
 
+<b>Subjects studied:</b>
 <details>
-  <summary>In the first semester, I study the following subjects:</summary>
-  - 🏸 Physical education; namely badminton <br>
-  - 🌐 B2 English <br>
-  - ⚖️ Law in ICT <br>
-  - 🧮 Linear algebra <br>
-  - ⌨️ Functional programming in Haskell <br>
-  - ⌨️ Introduction to programming in C <br>
-  - 💭 Introduction to logical thinking <br>
-  - 🖥️ Fundamentals of digital systems <br>
-  - 🔌 Safety in electrical engineering
+  <summary>In the first semester:</summary>
+  
+  - 🔌 Safety in Electrical Engineering I <br>
+  - ⌨️ Functional Programming (Haskell) <br>
+  - 🌐 English Language for FEI - intermediate <br>
+  - 🧮 Linear Algebra <br>
+  - ⚖️ Law in Computer Science <br>
+  - 🏸 Physical Education (badminton) <br>
+  - 💭 Introduction to Logical Thinking <br>
+  - ⌨️ Introduction to Programming (C) <br>
+  - 🖥️ Introduction to Digital Systems <br>
 </details>
 
 <details>
-  <summary>In the second semester, I study the following subjects:</summary>
-  - 🖥️ Algorithms <br>
-  - 💽 Architectures of computers and parallel systems <br>
-  - 🌐 B2 English <br>
-  - 🧮 Mathematical analysis <br>
-  - ⌨️ Object-oriented programming in C++ <br>
-  - 📰 Typesetting of technical documents - LaTeX <br>
+  <summary>In the second semester:</summary>
+  
+  - 🖥️ Algorithms I <br>
+  - 💽 Computer Architecture and Parallel Systems <br>
+  - 🌐 English Language for FEI - intermediate <br>
+  - 🧮 Mathematical Analysis 1 <br>
+  - ⌨️ Object Oriented Programming (C++) <br>
+  - 📰 Typography of Technical Documents (LaTeX) <br>
   - 👨‍💼 Soft Skills <br>
-  - 🏸 Physical education <br>
-  - 📊 Introduction to software engineering
+  - 🏸 Physical Education (badminton) <br>
+  - 📊 Introduction to Software Engineering
 </details>
 
 #### Computer science skills
