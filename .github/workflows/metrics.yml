@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 * * * *"}] # beží každú hodinu
-  workflow_dispatch: # umožňuje manuálne spustenie
+  schedule: [{cron: "59 23 * * *"}]
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,9 +22,12 @@ jobs:
           plugin_languages_ignored: CSS, HTML
           plugin_languages_skipped: CRG-project unity-learning autobusy_gobat.sk tekovany
           plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: percentage
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_recent_load: 1000
+          plugin_languages_recent_days: 365
           plugin_followup: yes
   facts:
       runs-on: ubuntu-latest
