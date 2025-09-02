@@ -20,7 +20,7 @@ jobs:
           plugin_traffic: yes
           plugin_languages: yes
           plugin_languages_indepth: yes
-          commits_authoring: firstname lastname, username, username@users.noreply.github.com
+          plugin_languages_indepth_custom: FilipRosa/dispecing_projekt
           plugin_followup: yes
   facts:
       runs-on: ubuntu-latest
