@@ -77,6 +77,7 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
   - 🧮 Mathematical Analysis 2 <br>
   - 🖥️ Computer Networks <br>
   - ⌨️ Java Programming I <br>
+  - 🏸 Physical Education (badminton) <br>
   - 📊 Introduction to Social Network Analysis
 </details>
 
