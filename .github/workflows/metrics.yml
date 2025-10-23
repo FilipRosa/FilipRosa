@@ -28,32 +28,31 @@ jobs:
           plugin_languages_recent_load: 1000
           plugin_languages_recent_days: 365
   facts:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: lowlighter/metrics@latest
-          with:
-            filename: metrics.plugin.habits.facts.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: ""
-            plugin_habits: yes
-            plugin_habits_from: 1000
-            plugin_habits_days: 30
-            plugin_habits_facts: yes
-            plugin_habits_charts: yes
-            config_timezone: Europe/Bratislava
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 1000
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Europe/Bratislava
 
   waka:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: lowlighter/metrics@latest
-          with:
-            filename: metrics.plugin.wakatime.svg
-            token: NOT_NEEDED
-            base: ""
-            plugin_wakatime: yes
-            plugin_wakatime_sections: time, projects, languages, languages-graphs, editors, os, os-graphs
-            plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-            plugin_wakatime_days: 365
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, languages, languages-graphs, editors, os, os-graphs
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 365
 
   anilist:
     runs-on: ubuntu-latest
