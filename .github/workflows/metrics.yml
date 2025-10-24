@@ -10,8 +10,11 @@ jobs:
   isocalendar:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: lowlighter/metrics@latest
         with:
+          committer_branch: main
+          committer_message: "Update metrics"
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           filename: metrics.plugin.isocalendar.svg
@@ -30,8 +33,11 @@ jobs:
   facts:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: lowlighter/metrics@latest
         with:
+          committer_branch: main
+          committer_message: "Update metrics"
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
@@ -45,8 +51,11 @@ jobs:
   waka:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: lowlighter/metrics@latest
         with:
+          committer_branch: main
+          committer_message: "Update metrics"
           token: NOT_NEEDED
           filename: metrics.plugin.wakatime.svg
           base: ""
