@@ -17,33 +17,10 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-  #isocalendar:
-  #  runs-on: ubuntu-latest
-  #  steps:
-  #    - uses: actions/checkout@v4
-  #    - uses: lowlighter/metrics@latest
-  #      with:
-  #       committer_branch: main
-  #        committer_message: "Update metrics"
-  #        token: ${{ secrets.METRICS_TOKEN }}
-  #        base: ""
-  #        filename: metrics.plugin.isocalendar.svg
-  #        plugin_lines: yes
-  #        plugin_isocalendar: yes
-  #        plugin_traffic: yes
-  #        plugin_languages: yes
-
-          #plugin_languages_sections: most-used
-   #       plugin_languages_indepth: yes
-   #       plugin_languages_details: percentage
-          #plugin_languages_analysis_timeout: 60
-          #plugin_languages_analysis_timeout_repositories: 15
-          #plugin_languages_recent_load: 1000
-          #plugin_languages_recent_days: 365
+  
   facts:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
       - uses: lowlighter/metrics@latest
         with:
           committer_branch: main
@@ -61,7 +38,6 @@ jobs:
   waka:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
       - uses: lowlighter/metrics@latest
         with:
           committer_branch: main
