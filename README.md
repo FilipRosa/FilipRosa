@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Metrics 1" width="48%" style="vertical-align: top;">
-  <img src="./metrics.plugin.anilist.svg" alt="Metrics 2" width="48%" style="vertical-align: top;">
+  <img src="./metrics.plugin.languages.indepth.svg" alt="Metrics 3" width="50%" style="vertical-align: top;">
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Metrics 1" width="50%" style="vertical-align: top;">
 </p>
 
 <br>
@@ -142,10 +142,10 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
 
 <p align="center">
   <span width="50%">
-    <img src="./metrics.plugin.habits.facts.svg">
+    <img src="./metrics.plugin.wakatime.svg">
   </span>
   <br><br>
   <span width="50%">
-    <img src="./metrics.plugin.wakatime.svg">
+      <img src="./metrics.plugin.anilist.svg" alt="Metrics 2" width="48%" style="vertical-align: top;">
   </span>
 </p>
