@@ -38,9 +38,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          committer_branch: main
-          committer_message: "Update metrics"
-          filename: metrics.plugin.habits.facts.svg
+          filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
