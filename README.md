@@ -1,7 +1,7 @@
 ![Header](./images/github-header.png)
 
 <div align="center">
-  From September 1, 2024, I started a new stage of my life - studying computer science at a university! I love and strive to learn cybersecurity and also programming.
+  From September 1, 2024, I started a new stage of my life - studying computer science at a university! I am interested in cybersecurity, data analysis and computer networks.
 </div>
 
 <p align="center">
