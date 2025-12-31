@@ -82,7 +82,7 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
   - 📊 Introduction to Social Network Analysis
 </details>
 
-#### Computer science skills
+#### Computer science skills:
 
 ##### Languages, frameworks...
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
