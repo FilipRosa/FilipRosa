@@ -82,6 +82,22 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
   - 📊 Introduction to Social Network Analysis
 </details>
 
+<details>
+  <summary>In the fourth semester:</summary>
+
+  - 🖥️ Administration of Operating Systems <br>
+  - ⌨️ C++ Programming I <br>
+  - 📊 Database Systems II <br>
+  - 🖥️ Design of Applications for Mobile Devices I <br>
+  - 🌐 English Language for FEI - intermediate <br>
+  - 💭 Introduction to Theoretical Computer Science <br>
+  - ⌨️ Java Programming II <br>
+  - 🏸 Physical Education (badminton) <br>
+  - ⌨️ Scripting Languages <br>
+  - 📊 Software Project Management <br>
+  - ⌨️ User Interfaces
+</details>
+
 #### Computer science skills:
 
 ##### Languages, frameworks...
