@@ -100,7 +100,18 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
 
 #### Computer science skills:
 
-##### Languages, frameworks...
+##### Languages
+
+<p align="center">
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=assembly,bash,c,cpp,cs,css,haskell,html,java,javascript,latex,php,python" />
+</p>
+
+##### Frameworks, programms & services
+
+<p align="center">
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=arduino,autocad,azure,blender,bootstrap,cmake,cuda,django,docker,figma,git,github,gitlab,illustrator,joomla,jupyter,markdown,maven,mysql,nodejs,npm,photoshop,postgresql,qt,react,redux,spring,sqlite,swagger,tailwindcss,unity,virtualbox,webpack,yaml" />
+</p>
+
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
@@ -141,6 +152,11 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
 
 
 ##### IDE and editors
+<p align="center">
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=androidstudio,clion,idea,obsidian,pycharm,visualstudio,vscode,webstorm" />
+</p>
+
+
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
@@ -151,6 +167,11 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
 
 
 ##### OS
+<p align="center">
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=arch,debian,kali,ubuntu,windows" />
+</p>
+
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
