@@ -109,7 +109,10 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
 ##### Frameworks, programms & services
 
 <p align="center">
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=arduino,autocad,azure,blender,bootstrap,cmake,cuda,django,docker,figma,git,github,gitlab,illustrator,joomla,jupyter,markdown,maven,mysql,nodejs,npm,photoshop,postgresql,qt,react,redux,spring,sqlite,swagger,tailwindcss,unity,virtualbox,webpack,yaml&theme=dark" />
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=arduino,autocad,azure,blender,bootstrap,cmake,cuda,django,docker,figma,git,github,gitlab,illustrator&theme=dark" />
+</p>
+<p align="center">
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=joomla,jupyter,markdown,maven,mysql,nodejs,npm,photoshop,postgresql,qt,react,redux,spring,sqlite,swagger,tailwindcss,unity,virtualbox,webpack,yaml&theme=dark" />
 </p>
 
 ##### IDE and editors
