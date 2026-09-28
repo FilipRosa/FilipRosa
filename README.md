@@ -88,14 +88,27 @@ From September 1, 2024, I started a new stage of my life - studying at a univers
   - 🖥️ Administration of Operating Systems <br>
   - ⌨️ C++ Programming I <br>
   - 📊 Database Systems II <br>
-  - 🖥️ Design of Applications for Mobile Devices I <br>
+  - 🖥️ Design of Applications for Mobile Devices I (Hybrid app, JavaScript) <br>
   - 🌐 English Language for FEI - intermediate <br>
   - 💭 Introduction to Theoretical Computer Science <br>
   - ⌨️ Java Programming II <br>
   - 🏸 Physical Education (badminton) <br>
-  - ⌨️ Scripting Languages <br>
+  - ⌨️ Scripting Languages (Python) <br>
   - 📊 Software Project Management <br>
   - ⌨️ User Interfaces
+</details>
+
+<details>
+  <summary>In the fifth semester:</summary>
+
+  - 🏗 Bachelor Project I <br>
+  - 🖥️ Design of Applications for Mobile Devices II (Native app, Kotlin) <br>
+  - 📊 Fundamentals of Computer Graphics <br>
+  - 📊 Fundamentals of Machine Learning <br>
+  - 🔐 Fundamentals of the Security in Communications <br>
+  - 📊 Information Systems Development <br>
+  - 🖥️ Operating Systems <br>
+  - 📞 Voice over IP I
 </details>
 
 #### Computer science skills:
